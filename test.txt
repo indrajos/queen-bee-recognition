@@ -1,0 +1,2 @@
+category_2,category_3,number_of_listings,avg_listing_price_eur,revenue_from_push_ups,push_ups_quantity,percent_push_ups
+ACCESSORIES_JEWELLERY,ACCESS_MOBILE,14228,28.08185128,492,246,1.7289851
